@@ -169,3 +169,20 @@ body {
 }
 
 
+.hero__paragraph {
+    margin-bottom: 20px;
+    color: #fff;
+
+}
+
+.cta {
+    display: inline-block;
+    background-color: #25328b;
+    justify-self: center;
+    color: #fff;
+    text-decoration: none;
+    padding: 13px 30px;
+    border-radius: 32px;
+    font-weight: normal;
+}
+
