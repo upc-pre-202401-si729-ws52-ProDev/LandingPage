@@ -78,3 +78,15 @@ body {
 
 
 }
+
+
+.nav__title {
+    font-weight: normal;
+    color: #25328b;
+
+}
+
+.nav__logo {
+    display: flex;
+}
+
