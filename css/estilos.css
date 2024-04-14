@@ -105,3 +105,26 @@ body {
 
 }
 
+
+.nav__items {
+    list-style: none;
+}
+
+.nav__links {
+    color: #25328b;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.nav__links1 {
+    color: #fff;
+    background-color: #25328b;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 18px;
+
+}
+
