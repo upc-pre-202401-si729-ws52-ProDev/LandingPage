@@ -146,3 +146,26 @@ body {
 }
 
 
+/* Hero container */
+
+.hero__container {
+    width: 35%;
+    --padding-container: 0;
+    display: grid;
+    grid-auto-rows: max-content;
+    align-content: center;
+    text-align: center;
+    gap: 1em;
+    padding-top: 300px;
+    margin-left: 50%;
+
+
+
+}
+
+.hero__title {
+    font-size: 3rem;
+    color: #25328b;
+}
+
+
