@@ -218,3 +218,28 @@ body {
 
 }
 
+.slider1 {
+
+    background-image: url('../images/supermercado.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 35%;
+    border-radius: 90px;
+}
+
+.slider2 {
+
+    background-image: url('../images/markets.png');
+    background-size: cover;
+    width: 35%;
+    border-radius: 90px;
+}
+
+.slider3 {
+
+    background-image: url('../images/ofertas.jpg');
+    background-size: cover;
+    width: 35%;
+    border-radius: 90px;
+}
+
