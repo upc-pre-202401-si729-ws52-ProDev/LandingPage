@@ -90,3 +90,18 @@ body {
     display: flex;
 }
 
+.nav__logo h1{
+    margin-left: 10px;
+    margin-TOp: 4px;
+}
+
+.nav__link {
+    margin-left: auto;
+    padding: 0;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 2em;
+
+}
+
