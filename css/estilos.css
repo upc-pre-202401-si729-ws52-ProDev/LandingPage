@@ -20,3 +20,15 @@ body {
 
 
 }
+
+.hero p{
+    color: #000;
+}
+
+
+
+.hero h1{
+    color: #25328b;
+    font-weight: normal;
+    margin-top: 20px;
+}
