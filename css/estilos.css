@@ -274,4 +274,30 @@ body {
 
 }
 
+.overlay h2{
+    color: #f8bd00;
+    font-weight: 1200;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+
+.slider1:hover .overlay{
+    height: 100%;
+    cursor: pointer;
+}
+
+.slider2:hover .overlay{
+    height: 100%;
+    cursor: pointer;
+}
+
+.slider3:hover .overlay{
+    height: 100%;
+    cursor: pointer;
+}
+
 
